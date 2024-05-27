@@ -5,7 +5,5 @@ if age<=12:
     print("you are eligible ")
 
 elif age>=13 and age<18 and ask=="yes":
-    print("you are eligible")  
-
-else:
-    print("you are not eligible")
+    print("you are eligible")
+    
